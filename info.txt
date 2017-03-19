@@ -1,0 +1,66 @@
+Size=10
+Time:5
+Correct Answer:10
+Wrong Answer:-1
+
+
+*Entomology is the science that studies*
+/Behavior of human beings/
+/Insects/
+/The origin and history of technical and scientific terms/
+/The formation of rocks/
+ 	
+*For which of the following disciplines is Nobel Prize awarded ?*
+/Physics and Chemistry/
+/Physiology or Medicine/
+/Literature, Peace and Economics/
+/All of the above/
+
+*Galileo was an Italian astronomer who*
+/developed the telescope/
+/discovered four satellites of Jupiter/
+/discovered that the movement of pendulum produces a regular time measurement/
+/All of the above/
+
+*Friction can be reduced by changing from*
+/sliding to rolling/
+/rolling to sliding/
+/potential energy to kinetic energy/
+/dynamic to static/
+
+*Fire temple is the place of worship of which of the following religion?*
+/Taoism/
+/Judaism/
+/Zoroastrianism (Parsi Religion)/
+/Shintoism/
+
+*Film and TV institute of India is located at*
+/Pune (Maharashtra)/
+/Rajkot (Gujarat)/
+/Pimpri (Maharashtra)/
+/Perambur (Tamilnadu)/
+
+*Guru Gobind Singh was*
+/the 10th Guru of the Sikhs/
+/founder of Khalsa, the inner council of the Sikhs in 1699/
+/author of Dasam Granth/
+/All the above/
+
+*The ozone layer restricts*
+/Visible light/
+/Infrared radiation/
+/X-rays and gamma rays/
+/Ultraviolet radiation/
+	
+*Euclid was*
+/Greek mathematician/
+/Contributor to the use of deductive principles of logic as the basis of geometry/
+/Propounded the geometrical theorems/
+/All of the above/
+
+	
+*Ecology deals with*
+/Birds/
+/Cell formation/
+/Relation between organisms and their environment/
+/Tissues/
