@@ -1,5 +1,5 @@
 Size=10
-Time:5
+Time:3
 Correct Answer:10
 Wrong Answer:-1
 
