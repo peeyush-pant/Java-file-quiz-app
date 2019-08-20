@@ -19,19 +19,19 @@ The system should have **JAVA** installed on it.
 #### Using the application
 
 When the user opens the application, the first view shows the information regarding the quiz. For ex. the number of questions, the time allotted, score for the correct answer and for the wrong answer.
-<img src="https://github.com/peeyush-pant/Java-file-quiz-app/blob/master/screenshots/initial.png" align="center" height="300" width="300" >
+<img src="https://github.com/peeyush-pant/Java-file-quiz-app/blob/master/screenshots/initial.png" align="left" height="600" width="600" >
 The number of digits should be equal to the number of questions.
 
 The next screen will show question one by one to the user.
 User can skip to a particular question number using the numbers panel on the left-hand side.
-<img src="https://github.com/peeyush-pant/Java-file-quiz-app/blob/master/screenshots/quiz.png" align="center" height="300" width="300" >
+<img src="https://github.com/peeyush-pant/Java-file-quiz-app/blob/master/screenshots/quiz.png" align="left" height="600" width="600" >
 
 Initially, all the numbers on the left are yellow which means unanswered.
 Once the user answers a question and moves to the next question the answered one turned green.
-<img src="https://github.com/peeyush-pant/Java-file-quiz-app/blob/master/screenshots/answers.png" align="center" height="300" width="300" >
+<img src="https://github.com/peeyush-pant/Java-file-quiz-app/blob/master/screenshots/answers.png" align="left" height="600" width="600" >
 
 The user can submit the quiz when all questions are answered. The final score will be displayed to the user.
-<img src="https://github.com/peeyush-pant/Java-file-quiz-app/blob/master/screenshots/result.png" align="center" height="300" width="300" >
+<img src="https://github.com/peeyush-pant/Java-file-quiz-app/blob/master/screenshots/result.png" align="left" height="600" width="600" >
 
 If the user closes the quiz when it is running the final score will be displayed to the user.
 
